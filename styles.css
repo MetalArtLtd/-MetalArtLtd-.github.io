@@ -30,7 +30,7 @@ body {
 
 .coming-soon {
     font-size: 48px;
-    color: #ff5a00; /* Orange for "Bullet Express" theme */
+    color: #ff5a00; 
 }
 
 .description {
@@ -40,11 +40,11 @@ body {
     margin-bottom: 40px;
 }
 .orange-link {
-    color: orange;
-    text-decoration: none; /* Optional: removes underline */
+     color: #ff5a00;
 }
 
 .orange-link:hover {
+    color: #ffffff;
     text-decoration: underline; /* Optional: adds underline on hover */
 }
 
