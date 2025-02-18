@@ -39,6 +39,14 @@ body {
     margin-top: 20px;
     margin-bottom: 40px;
 }
+.orange-link {
+    color: orange;
+    text-decoration: none; /* Optional: removes underline */
+}
+
+.orange-link:hover {
+    text-decoration: underline; /* Optional: adds underline on hover */
+}
 
 .footer {
     font-size: 14px;
